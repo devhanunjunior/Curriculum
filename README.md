@@ -13,9 +13,10 @@
 * 1º Periodo Tecnologo em Sistemas de Computação pela Fundação CECIRRJ
 
 ###Front End
-* Html
+
 
 ###Back End
+* Lógica de Programação
 
 ###Banco de Dados
 
