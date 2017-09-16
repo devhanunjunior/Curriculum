@@ -12,11 +12,18 @@
 * Logica de Programação Senac Goiânia
 * 1º Periodo Tecnologo em Sistemas de Computação pela Fundação CECIRRJ
 
-###Front End
-
+##Liguaguens de Programação
+###Liguaguens DeskTop
+* C
 
 ###Back End
 * Lógica de Programação
+
+
+###Front End
+
+
+
 
 ###Banco de Dados
 
