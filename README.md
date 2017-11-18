@@ -1,8 +1,8 @@
 #Winston Hanun Júnior
 
 **Endereço.:** Rua Goias nº180 * Centro * Morrinhos - Goias  
-**Telefone.:** (64)99248-6190
-**Zap.:** +55(64)99248-6190  
+**Telefone.:** (64)99218-3582
+**Zap.:** +55(64)99218-3582  
 **Email.:** <devhanunjunior@gmail.com>  
 **Skype.:** <devhanunjunior@gmail.com>  
 
@@ -22,8 +22,9 @@
 
 
 ###Front End
-
-
+* Html5
+* Css3
+* JavaScript
 
 
 ###Banco de Dados
