@@ -11,6 +11,14 @@
 * Linux e Aplicativos linux na Uni Anhangüera.
 * Logica de Programação Senac Goiânia
 * 1º Periodo Tecnologo em Sistemas de Computação pela Fundação CECIRRJ
+* 1º Periodo Curso Superior de Tecnologia em Marketing 
+
+###Front End
+* Html5
+* Css3
+* JavaScript
+* JQuery
+
 
 ##Liguaguens de Programação
 
@@ -21,11 +29,6 @@
 * Lógica de Programação
 
 
-###Front End
-* Html5
-* Css3
-* JavaScript
-** JQuery
 
 
 ###Banco de Dados
