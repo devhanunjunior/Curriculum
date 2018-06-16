@@ -22,56 +22,20 @@
 ###Front End
 * Html5 
 * Css3
-* JavaScript 
-* Jquery
-* GulpJS 
-* Bower 
-* Sass 
-* Bootstrap *
-* AngularJs *
-* Vue.js *
-* Ionic
 
 ###Back End
-* Php 
-* PhpOo
-* Php Mvc 
-* Zend FrameWork *
-* Laravel 5.*
 
 ###Banco de Dados
-* Mysql 
-* PostGres 
-* FireBird 
-* Oracle.
+
 
 ###Cms - Sistema de gerenciamento de conteúdo 
-* WordPress 
-* Joomla 
-* Magento
+
 
 ###Gerenciamento de Versão: 
 * Git 
 * GitHub.
+* Git Flow
 
 ###Experiência
-* Coordenador de Equipe McDonals 
-* Administrador de Redes Cyber Pinguim 
-* Desenvolvedor Web Php Media Virtual 
-* Suporte Tecnico Jm Informatica 
-* Desenvolvedor Web Php Triadz Comunicação Visual 
-* Suporte Tecnico Rezendes Sistemas 
-* Desenvolvedor Web Php Raddar 
-* Administrador de Pousada Buriti 
-* Desenvolvedor Web Sisdeve
 
 ###Trabalhos
-* <http://www.acamargo.com>
-* <http://www.californiamotos.com.br>
-* <http://www.casasenador.com.br>
-* <http://www.fatriargamassas.com.br>
-* <http://www.sete.eng.br>
-* <http://www.cjencomendas.com.br>
-* <http://www.vetlinego.com.br>
-* <http://www.mrmotos.com.br>
-* <http://www.nutrial-go.com.br>
